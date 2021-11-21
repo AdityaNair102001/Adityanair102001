@@ -9,6 +9,6 @@ Here are some ideas to get you started:
  👯 I’m looking to collaborate on ReactJS
 - 💬 Ask me about ReactJS
 - 📫 How to reach me: https://twitter.com/AdityaN102001
-- 😄 Pronouns: he/her
-- ⚡ Fun fact: my pronouns
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityanair102001)](https://github.com/Adityanair102001/github-readme-stats)
 
